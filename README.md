@@ -1,8 +1,13 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **[DNA](https://github.com/cesarsalesgomes/dna)**
-- 🌱 I’m currently learning **React**, **[React Query](https://react-query.tanstack.com/)** , **[Directus](https://directus.io/)**, **[Radix](https://www.radix-ui.com/)**
+- 🌱 I’m currently learning **React**, **[React-Query](https://react-query.tanstack.com/)** , **[Directus](https://directus.io/)**, **[Radix](https://www.radix-ui.com/)**
 
+<div align = "left">
+    <a href= "https://www.linkedin.com/in/cesar-augusto-sales-gomes-769a5b11b/" target= "_blank" >
+        <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
 
 <!--
 **cesarsalesgomes/cesarsalesgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
