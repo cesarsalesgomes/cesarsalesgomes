@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **[DNA](https://github.com/cesarsalesgomes/dna)**
-- 🌱 I’m currently learning **React**, **[React-Query](https://react-query.tanstack.com/)** , **[Directus](https://directus.io/)**, **[Radix](https://www.radix-ui.com/)**
+- 🌱 I’m currently learning **React**, **[React-Query](https://react-query.tanstack.com/)** , **[Directus](https://directus.io/)**, **[Radix](https://www.radix-ui.com/)**, **[Aws](https://aws.amazon.com)**
 
 <br />
 
