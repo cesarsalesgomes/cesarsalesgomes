@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **[DNA](https://github.com/cesarsalesgomes/dna)**
-- 🌱 I’m currently learning **React**, **[React-Query](https://react-query.tanstack.com/)**, **[Directus](https://directus.io/)**, **[Aws](https://aws.amazon.com)**, **[Tailwind](https://tailwindcss.com/)**, **[Jotai](https://jotai.org/)**, **[Zustand](https://github.com/pmndrs/zustand)**
+- 🌱 I’m currently learning **React**, **[React-Query](https://react-query.tanstack.com/)**, **[Directus](https://directus.io/)**, **[Aws](https://aws.amazon.com)**, **[Tailwind](https://tailwindcss.com/)**, **[Jotai](https://jotai.org/)**, **[Zustand](https://github.com/pmndrs/zustand)**, **[Uptime Kuma](https://github.com/louislam/uptime-kuma)**, **[Novu](https://novu.co/)**
 
 <br />
 
