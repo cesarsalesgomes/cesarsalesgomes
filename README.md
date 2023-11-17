@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **[DNA](https://github.com/cesarsalesgomes/dna)**
 - 🌱 I’m currently learning:
-    - Front-end Frameworks: **[React](https://beta.reactjs.org/)**, **[Svelte](https://svelte.dev/)**
+    - Front-end Frameworks: **[React](https://beta.reactjs.org/)**, **[Svelte](https://svelte.dev/)**, **[Sveltekit](https://kit.svelte.dev/)**
     - Back-end Frameworks: **[Directus](https://directus.io/)**
     - Css Frameworks: **[Tailwind](https://tailwindcss.com/)**
     - Libraries: **[React-Query](https://react-query.tanstack.com/)**, **[Jotai](https://jotai.org/)**, **[Zustand](https://github.com/pmndrs/zustand)**
