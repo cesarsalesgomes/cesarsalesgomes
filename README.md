@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **[DNA-KIT](https://github.com/cesarsalesgomes/dna-kit)**
+- 🔭 I’m currently working on **[Dna-Kit](https://github.com/cesarsalesgomes/dna-kit)**
 - 🌱 I’m currently learning:
     - Front-end Frameworks: **[React](https://beta.reactjs.org/)**, **[Svelte](https://svelte.dev/)**, **[Sveltekit](https://kit.svelte.dev/)**
     - Back-end Frameworks: **[Directus](https://directus.io/)**
